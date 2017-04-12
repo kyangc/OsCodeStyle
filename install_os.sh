@@ -4,7 +4,7 @@
 echo "Installing Oversea Android Code Style ..."
 
 # Config file path
-URL=""
+URL="https://raw.githubusercontent.com/kyangc/OsCodeStyle/master/osandroid.xml"
 
 #Config file name
 FILE="OsAndroid.xml"
