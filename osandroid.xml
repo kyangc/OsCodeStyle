@@ -518,6 +518,8 @@
     </option>
   </AndroidXmlCodeStyleSettings>
   <XML>
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="XML_SPACE_AFTER_TAG_NAME" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
 
